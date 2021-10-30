@@ -1,6 +1,6 @@
 ### Hi there, I'm @mauricodev 👋
 ---
-I'm a peruvian guy, I like reading, practicing sports and I'm a normal guy at all. I like programming in the web.
+I'm a peruvian guy, I like reading, practicing sports and I'm a normal guy in general. I like programming in the web.
 I’m looking to collaborate on webapps focusing on education (online or blended).
 - 👨‍🚀 I'm an active student at Platzi.
 - ✍️ I have my [personal blog](https://mauriciocarrasco.medium.com/) in Medium. 
