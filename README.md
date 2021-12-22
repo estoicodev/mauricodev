@@ -1,16 +1,17 @@
 ### Hi there, I'm @mauricodev 👋
 ---
-I'm a peruvian guy, I like reading, practicing sports and I'm a normal guy in general. I like programming in the web.
-I’m looking to collaborate on webapps focusing on education (online or blended).
+I'm a Peruvian guy, I like reading, practicing sports, and creating things on the web.
+
+I'm looking to collaborate on web apps focusing on education (online or blended).
 - 👨‍🚀 I'm an active student at Platzi.
-- ✍️ I have my [personal blog](https://mauriciocarrasco.medium.com/) in Medium. 
 - 💭 Ask me about anything, we are here to help each other 🤟
+- 💻 [My website](https://mauricodev.netlify.app/)
 
 ### Contact
 ---
 - [Twitter](https://twitter.com/mauricodev)
 - [Linkedin](https://www.linkedin.com/in/mauriciocm69/)
-- [Email](mailto:vmcarrasco2810@gmail.com)
+- [Send Email](mailto:vmcarrasco2810@gmail.com)
 
 
 <!--
