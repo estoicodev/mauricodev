@@ -3,7 +3,7 @@
 I'm Mauricio from Peru, and I create things on the web. I really enjoy learning languages like C, Python and JavaScript. I’m currently learning React and UI/UX Design.
 
 ---
-I'm looking for a part-time job as Front-end. You can contact me on Twitter as [@mauricodev](https://twitter.com/mauricodev) and you if you want any of my services you can [send me an email](mailto:vmcarrasco2810@gmail.com).
+I'm looking for a part-time job as Front-end. You can contact me on Twitter as [@mauricodev](https://twitter.com/mauricodev) and if you want any of my services you can [send me an email](mailto:vmcarrasco2810@gmail.com).
 
 <!--
 **mauricodev/mauricodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
