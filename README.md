@@ -1,18 +1,9 @@
-### Hi there, I'm @mauricodev 👋
+### Hi there 👋
 ---
-I'm a Peruvian guy, I like reading, practicing sports, and creating things on the web.
+I'm Mauricio from Peru, and I create things on the web. I really enjoy learning languages like C, Python and JavaScript. I’m currently learning React and UI/UX Design.
 
-I'm looking to collaborate on web apps focusing on education (online or blended).
-- 👨‍🚀 I'm an active student at Platzi.
-- 💭 Ask me about anything, we are here to help each other 🤟
-- 💻 [My website](https://mauricodev.netlify.app/)
-
-### Contact
 ---
-- [Twitter](https://twitter.com/mauricodev)
-- [Linkedin](https://www.linkedin.com/in/mauriciocm69/)
-- [Send Email](mailto:vmcarrasco2810@gmail.com)
-
+I'm looking for a part-time job as Front-end. You can contact me on Twitter as [@mauricodev](https://twitter.com/mauricodev) and you if you want any of my services you can [send me an email](mailto:vmcarrasco2810@gmail.com).
 
 <!--
 **mauricodev/mauricodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
