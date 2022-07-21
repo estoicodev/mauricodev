@@ -1,4 +1,4 @@
-### Hi there 👋, Mauricio Carrasco
+### Hi there 👋, I'm Mauricio Carrasco
 #### Software Engineer
 I'm Mauricio from Peru, and I create things on the web. I really enjoy learning languages like C, Python, and JavaScript.
 
