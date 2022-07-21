@@ -1,21 +1,17 @@
-### Hi there 👋
----
-I'm Mauricio from Peru, and I create things on the web. I really enjoy learning languages like C, Python and JavaScript. I’m currently learning React and UI/UX Design.
+### Hi there 👋, Mauricio Carrasco
+#### Software Engineer
+I'm Mauricio from Peru, and I create things on the web. I really enjoy learning languages like C, Python, and JavaScript.
 
----
-I'm looking for a part-time job as Front-end. You can contact me on Twitter as [@mauricodev](https://twitter.com/mauricodev) and if you want any of my services you can [send me an email](mailto:vmcarrasco2810@gmail.com).
+Skills: React / JavaScript / HTML / CSS / Python / C
 
-<!--
-**mauricodev/mauricodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning React and UI/UX Design. 
+- 💼 I'm looking for a part-time job as Front-end.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricodev)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricodev&show_icons=true)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mauricodev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mauriciocarrascom/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mauricodev)
+
+![Profile views](https://gpvc.arturio.dev/mauricodev)  
