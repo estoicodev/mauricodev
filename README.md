@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Mauricio Carrasco
-#### Software Engineer
+#### Full Stack Software Engineer
 I'm Mauricio from Peru, and I create things on the web. I really enjoy learning languages like C, Python, and JavaScript.
 
 Skills: React / JavaScript / HTML / CSS / Python / C
